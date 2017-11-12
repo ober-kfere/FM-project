@@ -1,6 +1,6 @@
 
 **************
-* THIS IS IT *
+* VERSION 1  *
 **************
 
 
@@ -17,7 +17,7 @@ adsr &= dr;
 
 
 **************
-* THIS IS *not* IT *
+* VERSION 2  *
 **************
 
 
@@ -32,10 +32,6 @@ adenv &= ar & dr;
 
 
 
-
-
-
-kazdy operator ma 8 registrov
 
 r1 - AM VIB EGT KSR MULT
 
@@ -52,19 +48,6 @@ r6 - KON BLOCK FNUM - H
 r7 - CHD CHC CHB CHA  FB  CNT
 
 r8 -               WS
-
-kazdy operator aj jeho register ma adresu
-
-
-
-struct operator
-
-op1 mult 13
-op1 ar 12
-
-
-
-
 
 
 
