@@ -1,22 +1,5 @@
 
 
-	flags - AM, VIB, EGT, KSR
-		*KON* - 
-		DAM, DVB, RYT
-		CHD, CHC, CHB, CHA, CNT
-	
-
-	postup:
-	-------
-		
-        zmen parameter
-	bit magic, ak je treba
-	zapis do registra
-
-	potrebujem:
-	zoznam povolenych hodnot pre kazdu adresu
-		
-
 
 struct 2op_ch16{
 	uint8_t regflag = 1;
@@ -89,31 +72,6 @@ struct 4op{
 		{ addr, val }, // FEEDBACK, CONNECTION 2	
 	};
 };
-
-
-
-
-
-
-
-
-write function
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
